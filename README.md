@@ -2,6 +2,10 @@
 
 Extract audio features in [Spotify-based format](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) from your input track (model run locally). This project extends model from [musicnn](https://github.com/jordipons/musicnn).
 
+Docker image: [ngxson/audio_features_extractor](https://hub.docker.com/r/ngxson/audio_features_extractor)
+
+Github repository: [github.com/ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor)
+
 Example:
 
 ```
