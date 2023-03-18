@@ -1,0 +1,6 @@
+librosa==0.7.0
+tensorflow==2.0.4
+numpy==1.16.6
+keras==2.6.0
+tinytag==1.8.1
+flask==2.2.3
